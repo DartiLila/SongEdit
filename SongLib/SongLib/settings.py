@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'SONGLIB',
         'USER': 'admin',
         'PASSWORD': 'admin1234',
-        'HOST': 'host-riki',
+        'HOST': 'darti-rds.cg1pgeh1cxag.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
